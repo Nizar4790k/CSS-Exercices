@@ -1,0 +1,24 @@
+#noneElements{
+    list-style-type: none;
+}
+
+#circleElements
+{
+list-style-type: circle;
+}
+
+#squareElements
+{
+list-style-type: square;
+}
+
+#romanElements
+{
+ list-style-type: lower-roman;
+}
+
+#greekElements
+{
+ list-style-type: lower-greek;
+}
+
