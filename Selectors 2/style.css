@@ -1,0 +1,51 @@
+
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#tr1{
+    color:teal;
+}
+
+#tr2{
+    color:red;
+}
+
+#tr3{
+    color:blue;
+}
+
+#tr4{
+    color:orange;
+}
+
+#tr5{
+    color:purple;
+}
+
+#tr6{
+    color:olive;
+}
+
+#tr7{
+    color:fuchsia;
+}
+
+#tr8{
+    color:green;
+}
+
+.tc2{
+    background-color: red;
+
+}
+
+.tc3{
+    background-color:green;
+}
+
+.tc4{
+    background-color: blue;
+}
+
+
