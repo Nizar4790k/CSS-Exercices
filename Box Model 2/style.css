@@ -1,0 +1,26 @@
+h1{
+    border-style: solid;
+    border-width: 2px;
+    border-color:#00F;
+    padding:10px;
+    margin: 30px 0px;
+}
+
+h2{
+    border-style: solid;
+    border-width: 2px;
+    border-color:#AAA;
+    padding:5px;
+    margin: 15px 0px;
+}
+
+ul{
+    border-width: 2px;
+    border-style:solid;
+    border-color:#0F0;
+    padding: 0x 10px;
+    margin:15px;
+}
+
+
+
