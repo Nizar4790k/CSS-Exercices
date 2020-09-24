@@ -1,0 +1,56 @@
+
+body{
+    width: 960px;
+    margin: 0 auto;
+    
+  
+    
+}
+
+h1.encabezado{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+div.principal{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+   
+}
+
+div.datoslibro{
+    width: 260px;
+    margin-right: 40px;
+   
+}
+
+div.contenido{
+    width: 700px;
+}
+
+
+div.contenidolibro{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+ul.contenidolibroul{
+    list-style-type: none;
+    
+}
+
+  #parrafo{
+    margin: 0px 15px;
+    width: 300px;
+
+}
+
+
+
+
